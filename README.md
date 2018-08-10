@@ -1,3 +1,5 @@
+[![DepShield Badge](https://depshield.sonatype.org/badges/michaelmworthington/simple-java-maven-app/depshield.svg)](https://depshield.github.io)
+
 # simple-java-maven-app
 
 This repository is for the
